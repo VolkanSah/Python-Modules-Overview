@@ -17,7 +17,6 @@
 - scikit-learn: Ein Modul für maschinelles Lernen und Datenanalyse.
 
 ## Datenbanken:
-
 - sqlite3: Ein Modul zur Arbeit mit SQLite-Datenbanken.
 - MySQLdb (Python 2) / mysql-connector-python (Python 3): Ein Modul zur Arbeit mit MySQL-Datenbanken.
 - psycopg2: Ein Modul zur Arbeit mit PostgreSQL-Datenbanken.
@@ -28,12 +27,12 @@
 - glob: Ein Modul zum Suchen von Dateien, die bestimmten Mustern entsprechen.
 ## Textverarbeitung und Regular Expressions:
 
-# re: Ein Modul zur Arbeit mit Regular Expressions.
-# string: Ein Modul mit zusätzlichen Funktionen zur Arbeit mit Zeichenketten.
+- re: Ein Modul zur Arbeit mit Regular Expressions.
+- string: Ein Modul mit zusätzlichen Funktionen zur Arbeit mit Zeichenketten.
 ## Zeit- und Datumsverwaltung:
 
-# time: Ein Modul zur Arbeit mit Zeit- und Datumsfunktionen.
-# datetime: Ein Modul zum Arbeiten mit Datum und Uhrzeit.
+- time: Ein Modul zur Arbeit mit Zeit- und Datumsfunktionen.
+- datetime: Ein Modul zum Arbeiten mit Datum und Uhrzeit.
 ## Multithreading und Concurrency:
 
 - threading: Ein Modul zur Arbeit mit Threads.
