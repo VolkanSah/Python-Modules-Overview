@@ -63,4 +63,4 @@ This repository provides an overview of some common and useful Python modules, c
 - `tkinter`: A module for creating graphical user interfaces (GUI) with Tk.
 - `PyQt`: A module for creating GUI applications with Qt.
 
-Feel free to contribute and update this list as you discover new modules or gain experience with the existing ones.
+Feel free to contribute and update this list as you discover new modules or gain experience with the existing ones. IT WILL HELP BEGINNERS1
