@@ -35,22 +35,24 @@ This repository provides an overview of some common and useful Python modules, c
 - `sqlite3`: A module for working with SQLite databases.
 - `MySQLdb` (Python 2) / `mysql-connector-python` (Python 3): A module for working with MySQL databases.
 - `psycopg2`: A module for working with PostgreSQL databases.
+- `SQLAlchemy`: A module for working with SQL databases using an ORM (Object-Relational Mapping) approach.
 
 ## File and Directory Manipulation
 
 - `os`: A module for operating system interactions, e.g., working with files and directories.
 - `shutil`: A module for copying, moving, and deleting files and directories.
 - `glob`: A module for searching for files matching specific patterns.
-
+- `pathlib`: A module for working with file paths in a more object-oriented way.
 ## Text Processing and Regular Expressions
 
 - `re`: A module for working with regular expressions.
 - `string`: A module with additional functions for working with strings.
-
+-  `NLTK`: A module for natural language processing, including text processing and analysis.
 ## Time and Date Management
 
 - `time`: A module for working with time and date functions.
 - `datetime`: A module for working with date and time.
+- `arrow`: A module for working with dates and times in a more human-readable way, with timezone support.
 
 ## Multithreading and Concurrency
 
@@ -62,5 +64,6 @@ This repository provides an overview of some common and useful Python modules, c
 
 - `tkinter`: A module for creating graphical user interfaces (GUI) with Tk.
 - `PyQt`: A module for creating GUI applications with Qt.
+- `wxPython`: A module for creating cross-platform GUI applications with wxWidgets.
 
 Feel free to contribute and update this list as you discover new modules or gain experience with the existing ones. IT WILL HELP BEGINNERS1
