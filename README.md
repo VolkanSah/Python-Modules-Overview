@@ -29,6 +29,7 @@ This repository provides an overview of some common and useful Python modules, c
 - `matplotlib`: A module for creating charts and visualizations.
 - `scipy`: A module for scientific and technical computing.
 - `scikit-learn`: A module for machine learning and data analysis.
+- `scapy`: is able to forge or decode packets of a wide number of protocols
 
 ## Databases
 
