@@ -68,7 +68,7 @@ This repository provides an overview of some common and useful Python modules, c
 - `PyQt`: A module for creating GUI applications with Qt.
 - `wxPython`: A module for creating cross-platform GUI applications with wxWidgets.
 
-Feel free to contribute and update this list as you discover new modules or gain experience with the existing ones. IT WILL HELP BEGINNERS1
+Feel free to contribute and update this list as you discover new modules or gain experience with the existing ones. IT WILL HELP BEGINNERS
 
 ### Thank you for your support!
 - If you appreciate my work, please consider [becoming a 'Sponsor'](https://github.com/sponsors/volkansah), giving a :star: to my projects, or following me. 
