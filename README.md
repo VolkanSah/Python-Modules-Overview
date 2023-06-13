@@ -24,8 +24,7 @@ This repository provides an overview of some common and useful Python modules, c
 - `flask`: A lightweight web framework for Python.
 - `django`: A comprehensive web framework for Python.
 - `socket`: A module for working with network connections and sockets.
-- `stem`: A controller library that allows applications to interact with Tor
-
+  
 ## Data Processing and Analysis
 
 - `numpy`: A module for numerical computations and array operations.
@@ -34,6 +33,8 @@ This repository provides an overview of some common and useful Python modules, c
 - `scipy`: A module for scientific and technical computing.
 - `scikit-learn`: A module for machine learning and data analysis.
 - `scapy`: is able to forge or decode packets of a wide number of protocols
+- `stem`: A controller library that allows applications to interact with Tor
+
 
 ## Databases
 
