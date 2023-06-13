@@ -65,22 +65,26 @@ This repository provides an overview of some common and useful Python modules, c
 - `asyncio`: A module for asynchronous programming with coroutines.
 
 ## Machine Learning
+
 - `scikit-learn`: A module for machine learning and data analysis.
 - `tensorflow`: An end-to-end open source platform for machine learning.
 - `keras`: A high-level neural networks API, written in Python and capable of running on top of TensorFlow.
 - `pytorch`: An open source machine learning library based on the Torch library.
 
 ## Scientific Computing
+
 - `numpy`: A module for numerical computations and array operations.
 - `scipy`: A module for scientific and technical computing.
 - `symp`y: A module for symbolic mathematics.
 
 ## Image Processing
+
 - `PIL / Pillow`: Modules for opening, manipulating, and saving many different image file formats.
 - `opencv-python`: A module for real-time computer vision.
 - `scikit-image`: A module for image processing.
   
 ## GUI Development
+
 - `tkinter`: A module for creating graphical user interfaces (GUI) with Tk.
 - `PyQt`: A module for creating GUI applications with Qt.
 - `wxPython`: A module for creating cross-platform GUI applications with wxWidgets.
