@@ -11,9 +11,9 @@ This repository provides an overview of some common and useful Python modules, c
 - [Text Processing and Regular Expressions](#text-processing-and-regular-expressions)
 - [Time and Date Management](#time-and-date-management)
 - [Multithreading and Concurrency](#multithreading-and-concurrency)
-- [Machine Learning](machine-learning)
-- [Scientific Computing](scientific-computing)
-- [Image Processing](image-processing)
+- [Machine Learning](#machine-learning)
+- [Scientific Computing](#scientific-computing)
+- [Image Processing](#image-processing)
 - [GUI Development](#gui-development)
 
 ## Web Development and Networking
