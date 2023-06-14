@@ -39,7 +39,7 @@ This repository provides an overview of some common and useful Python modules I 
 ## Databases
 
 - `sqlite3`: A module for working with SQLite databases.
-- `MySQLdb` (Python 2) / `mysql-connector-python` (Python 3): A module for working with MySQL databases.
+- `MySQLdb` (Python 2) / `mysql-connector-python` (Python 3): A module for working with MySQL databases. Please use Python 3!
 - `psycopg2`: A module for working with PostgreSQL databases.
 - `SQLAlchemy`: A module for working with SQL databases using an ORM (Object-Relational Mapping) approach.
 
