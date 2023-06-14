@@ -1,6 +1,6 @@
 # Python Modules Overview (Update 06/2023)
 
-This repository provides an overview of some common and useful Python modules, categorized by their functionality. This list is not exhaustive but serves as a starting point for exploring various Python libraries.
+This repository provides an overview of some common and useful Python modules I use, categorized by their functionality. This list is not exhaustive but serves as a starting point for exploring various Python libraries.
 
 ## Table of Contents
 
