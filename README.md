@@ -195,7 +195,7 @@ If you find this project useful and want to support it, there are several ways t
 **If you appreciate my work and would like to support it, please visit my [GitHub Sponsor page](https://github.com/sponsors/volkansah). Any type of support is warmly welcomed and helps me to further improve and expand my work.**
 
 Thank you for your support! ❤️
-** S. Volkan Kücükbudak**
+**S. Volkan Kücükbudak**
 
 ### License
 This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
