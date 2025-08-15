@@ -125,11 +125,20 @@ This repository provides an overview of some common and useful Python modules I 
 
 ## Machine Learning
 
-- `scikit-learn`: A module for machine learning and data analysis.
-- `tensorflow`: An end-to-end open source platform for machine learning.
-- `keras`: A high-level neural networks API, written in Python and capable of running on top of TensorFlow.
-- `pytorch`: An open source machine learning library based on the Torch library.
-- `lightgbm`: A fast, distributed, high-performance gradient boosting framework based on decision tree algorithms, used for ranking, classification, and many other machine learning tasks.
+
+* `scikit-learn`: A module for machine learning and data analysis.
+* `tensorflow`: An end-to-end open source platform for machine learning.
+* `keras`: A high-level neural networks API, written in Python and capable of running on top of TensorFlow.
+* `pytorch`: An open source machine learning library based on the Torch library.
+* `lightgbm`: A fast, distributed, high-performance gradient boosting framework based on decision tree algorithms, used for ranking, classification, and many other machine learning tasks.
+* `xgboost`: An optimized gradient boosting library designed to be highly efficient, flexible, and portable.
+* `catboost`: A gradient boosting library with excellent support for categorical features.
+* `fastai`: A high-level library for PyTorch that simplifies training neural networks and conducting experiments.
+* `transformers`: Hugging Face library providing pre-trained Transformer models for NLP tasks.
+* `torchvision`: A PyTorch library for computer vision, including datasets, models, and image transformations.
+* `pytorch-lightning`: A lightweight PyTorch wrapper for organizing code, reducing boilerplate, and streamlining model training.
+* `optuna`: An automatic hyperparameter optimization framework for machine learning.
+* `mlflow`: A platform to manage the ML lifecycle, including experimentation, reproducibility, and deployment.
 
 ## Scientific Computing
 
