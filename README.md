@@ -1,8 +1,9 @@
-# Python Modules Overview (Update 07/2024)
+# Python Modules Overview (Update 08/2025)
 
 This repository provides an overview of some common and useful Python modules I use, categorized by their functionality. This list is not exhaustive but serves as a starting point for exploring various Python libraries.
 
-## Table of Contents
+<details>
+<summary>Table of Contents</summary>
 
 - [Web Development and Networking](#web-development-and-networking)
 - [Data Processing and Analysis](#data-processing-and-analysis)
@@ -20,6 +21,8 @@ This repository provides an overview of some common and useful Python modules I 
 - [Compression and Archiving](#compression-and-archiving)
 - [Miscellaneous](#miscellaneous)
 
+</details>
+
 ## Web Development and Networking
 
 - `requests`: A module for making HTTP requests, simpler and more convenient than `http.client`.
@@ -33,6 +36,9 @@ This repository provides an overview of some common and useful Python modules I 
 - `socketserver`: A module for creating network servers (standard module).
 - `select`: A module for waiting for I/O completion (standard module).
 - `selectors`: A module for high-level I/O multiplexing (standard module).
+- `fastapi`: Modern, fast web framework for building APIs with Python 3.6+ (async-ready).
+- `uvicorn`: ASGI server implementation, often used with FastAPI.
+- `gunicorn`: WSGI server for running Python web apps in production.
 
 ## Data Processing and Analysis
 
@@ -50,6 +56,8 @@ This repository provides an overview of some common and useful Python modules I 
 - `xml.etree.ElementTree`: A module for parsing XML (standard module).
 - `plistlib`: A module for generating and parsing Mac OS X .plist files (standard module).
 - `_json`: A module for JSON encoder and decoder (standard module).
+- `openpyxl`: Read/write Excel 2010 xlsx/xlsm/xltx/xltm files.
+- `python-magic`: File type identification using libmagic.
 
 ## Databases
 
@@ -78,6 +86,8 @@ This repository provides an overview of some common and useful Python modules I 
 - `mailbox`: A module for reading and writing mailboxes (standard module).
 - `mailcap`: A module for handling mailcap files (standard module).
 - `mmap`: A module for memory-mapped file support (standard module).
+- `aiofiles`: Asynchronous file operations.
+- `python-multipart`: For multipart form data handling.
 
 ## Text Processing and Regular Expressions
 
@@ -110,6 +120,8 @@ This repository provides an overview of some common and useful Python modules I 
 - `gevent`: A coroutine-based Python networking library that uses greenlet to provide a high-level synchronous API on top of the libev event loop.
 - `concurrent.futures`: A module for running concurrent tasks using thread or process pools (standard module).
 - `queue`: A module for creating synchronized queues (standard module).
+- `celery`: Distributed task queue for background jobs.
+- `redis`: Often used as broker for Celery.
 
 ## Machine Learning
 
@@ -154,11 +166,16 @@ This repository provides an overview of some common and useful Python modules I 
 - `unittest`: A module for writing and running tests (standard module).
 - `timeit`: A module for measuring execution time of small code snippets (standard module).
 - `py_compile`: A module for compiling Python source files (standard module).
+- `pytest`: Popular testing framework for Python.
+- `pytest-asyncio`: For testing async code with pytest.
+- `pdbpp`: Improved Python debugger.
 
 ## Security and Encryption
 
 - `ssl`: A module for working with Secure Sockets Layer (SSL) protocol (standard module).
 - `secrets`: A module for generating cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets (standard module).
+- `bcrypt`: Password hashing library for secure authentication.
+- `PyJWT`: JSON Web Token implementation for authentication.
 
 ## Compression and Archiving
 
@@ -182,10 +199,11 @@ This repository provides an overview of some common and useful Python modules I 
 - `webbrowser`: A module for controlling web browsers (standard module).
 - `sched`: A module for event scheduling (standard module).
 - `_warnings`: A module for managing warning messages (standard module).
-
-Feel free to contribute and update this list as you discover new modules or gain experience with the existing ones. IT WILL HELP BEGINNERS.
+- `python-memcached`: Python client for memcached.
+- `python-dateutil`: Extensions for datetime handling.
 
 ## Your Support
+
 If you find this project useful and want to support it, there are several ways to do so:
 
 - If you find the paper helpful, please ⭐ it on GitHub. This helps make the project more visible and reach more people.
@@ -194,7 +212,7 @@ If you find this project useful and want to support it, there are several ways t
 - Share the project: If you know someone who could benefit from this project, please share it. The more people who can use it, the better.
 **If you appreciate my work and would like to support it, please visit my [GitHub Sponsor page](https://github.com/sponsors/volkansah). Any type of support is warmly welcomed and helps me to further improve and expand my work.**
 
-Thank you for your support! ❤️
+Thank you for your support! ❤️  
 **S. Volkan Kücükbudak**
 
 ### License
